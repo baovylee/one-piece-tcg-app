@@ -1,3 +1,9 @@
+<!--
+  HomeView.vue
+  Description: Displays the homepage and
+  showcases featured One Piece TCG booster packs.
+-->
+
 <script setup>
 </script>
 
@@ -7,7 +13,7 @@
 
     <h1>YOUR GRAND LINE ADVENTURE STARTS HERE</h1>
 
-    <p class="description">Open booster packs, discover rare cards, and build your ultimate collection</p>
+    <p class="description">Open booster packs, find Manga Rare, and build your ultimate collection</p>
 
     <RouterLink to="/packs" class="explore-btn">
       Explore Packs

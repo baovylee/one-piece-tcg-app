@@ -1,3 +1,6 @@
+// File: index.js
+// Description: Defines and manages application routes, connecting URLs to their corresponding Vue page components
+
 import { createRouter, createWebHistory } from 'vue-router'
 
 import HomeView from '../views/HomeView.vue'

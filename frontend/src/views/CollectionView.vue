@@ -1,3 +1,9 @@
+<!--
+  CollectionView.vue
+  Description: Displays collected trading cards
+  and supports searching and filtering.
+-->
+
 <template>
   <section>
     <h1>My Collection</h1>

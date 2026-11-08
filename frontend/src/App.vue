@@ -1,5 +1,10 @@
+<!--
+File: App.vue
+Description: Root component that manages
+the main layout and renders the active route
+-->
 <script setup>
-import { Navbar } from "./components/Navbar.vue"
+import  Navbar from "./components/Navbar.vue"
 import { RouterView } from 'vue-router'
 </script>
 

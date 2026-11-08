@@ -1,7 +1,11 @@
+<!--
+File: Navbar.vue
+Description: Provides navigation between the Home, Pack Opening, and Collection pages.
+-->
 <template>
   <header class="navbar">
     <RouterLink to="/" class="logo">
-      GRAND LINE TCG
+      One Piece Booster Box
     </RouterLink>
 
     <nav>
